@@ -12,13 +12,13 @@ DATA_PATH = ROOT / "data" / "price_history.csv"
 
 sys.path.insert(0, str(ROOT / "src"))
 
-from data_cleaner import (
+from src.data_cleaner import (
     load_price_history,
     clean_price_history,
     data_quality_summary,
 )
 
-from price_analyzer import (
+from src.price_analyzer import (
     product_summary,
     deal_score,
     detect_iqr_anomalies,
