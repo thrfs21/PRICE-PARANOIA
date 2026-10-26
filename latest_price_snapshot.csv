@@ -1,0 +1,31 @@
+product_id,product_name,category,brand,platform,date,price_inr,mrp_inr,currency,data_source,advertised_original_price_inr,advertised_discount_pct,record_type
+P015,Tablet 128GB,Electronics,TabWorks,Store A,2026-10-26,22080,24999,INR,simulated,24999,11.68,simulated_demo_snapshot
+P028,Electric Toothbrush,Home Appliances,SmileTech,Store C,2026-10-26,2180,3499,INR,simulated,3499,37.7,simulated_demo_snapshot
+P001,Wireless Headphones,Electronics,SoundMax,Store A,2026-10-26,5180,5999,INR,simulated,5999,13.65,simulated_demo_snapshot
+P002,Bluetooth Speaker,Electronics,BeatBox,Store B,2026-10-26,2900,3499,INR,simulated,3499,17.12,simulated_demo_snapshot
+P003,Smartwatch,Electronics,PulseTech,Store A,2026-10-26,4960,7999,INR,simulated,7999,37.99,simulated_demo_snapshot
+P004,Mechanical Keyboard,Accessories,KeyForge,Store C,2026-10-26,3630,4999,INR,simulated,4999,27.39,simulated_demo_snapshot
+P005,Wireless Mouse,Accessories,ClickPro,Store B,2026-10-26,1130,1799,INR,simulated,1799,37.19,simulated_demo_snapshot
+P006,USB-C Hub,Accessories,PortPlus,Store A,2026-10-26,2680,2999,INR,simulated,2999,10.64,simulated_demo_snapshot
+P007,Power Bank 20000mAh,Accessories,VoltGo,Store C,2026-10-26,1700,2499,INR,simulated,2499,31.97,simulated_demo_snapshot
+P008,Gaming Headset,Electronics,GameTone,Store B,2026-10-26,4330,6999,INR,simulated,6999,38.13,simulated_demo_snapshot
+P009,Portable SSD 1TB,Electronics,DataDrive,Store A,2026-10-26,7540,8999,INR,simulated,8999,16.21,simulated_demo_snapshot
+P010,Wi-Fi Router,Electronics,NetWave,Store C,2026-10-26,3950,4499,INR,simulated,4499,12.2,simulated_demo_snapshot
+P011,Monitor 27 inch,Electronics,ViewPoint,Store B,2026-10-26,14430,18999,INR,simulated,18999,24.05,simulated_demo_snapshot
+P012,Webcam 1080p,Accessories,ClearView,Store A,2026-10-26,2530,3999,INR,simulated,3999,36.73,simulated_demo_snapshot
+P029,Gaming Controller,Accessories,GameTone,Store B,2026-10-26,3080,4999,INR,simulated,4999,38.39,simulated_demo_snapshot
+P013,Laptop Stand,Accessories,ErgoRise,Store C,2026-10-26,1640,2199,INR,simulated,2199,25.42,simulated_demo_snapshot
+P016,Air Fryer,Home Appliances,HomeChef,Store C,2026-10-26,7810,8999,INR,simulated,8999,13.21,simulated_demo_snapshot
+P017,Mixer Grinder,Home Appliances,MixMate,Store B,2026-10-26,4180,5999,INR,simulated,5999,30.32,simulated_demo_snapshot
+P018,Robot Vacuum,Home Appliances,CleanBot,Store A,2026-10-26,19360,22999,INR,simulated,22999,15.82,simulated_demo_snapshot
+P019,Air Purifier,Home Appliances,PureAir,Store C,2026-10-26,9730,14999,INR,simulated,14999,35.13,simulated_demo_snapshot
+P020,Electric Kettle,Home Appliances,BoilBuddy,Store B,2026-10-26,1390,1999,INR,simulated,1999,30.47,simulated_demo_snapshot
+P021,Desk Lamp,Home Appliances,BrightNest,Store A,2026-10-26,1130,1599,INR,simulated,1599,29.33,simulated_demo_snapshot
+P022,Ergonomic Chair,Home Appliances,SitWell,Store C,2026-10-26,9890,15999,INR,simulated,15999,38.18,simulated_demo_snapshot
+P023,External Hard Drive 2TB,Electronics,DataDrive,Store B,2026-10-26,5190,6999,INR,simulated,6999,25.85,simulated_demo_snapshot
+P024,USB-C Charger 65W,Accessories,VoltGo,Store A,2026-10-26,2010,2499,INR,simulated,2499,19.57,simulated_demo_snapshot
+P025,Smart Bulb 2-Pack,Home Appliances,BrightNest,Store C,2026-10-26,1180,1799,INR,simulated,1799,34.41,simulated_demo_snapshot
+P026,Fitness Band,Electronics,PulseTech,Store B,2026-10-26,3670,3999,INR,simulated,3999,8.23,simulated_demo_snapshot
+P027,Printer,Electronics,PrintWise,Store A,2026-10-26,9060,12999,INR,simulated,12999,30.3,simulated_demo_snapshot
+P014,USB Microphone,Accessories,VoiceLab,Store B,2026-10-26,3430,5499,INR,simulated,5499,37.63,simulated_demo_snapshot
+P030,Noise-Cancelling Earbuds,Electronics,SoundMax,Store A,2026-10-26,6930,9999,INR,simulated,9999,30.69,simulated_demo_snapshot
