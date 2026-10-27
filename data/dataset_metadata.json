@@ -1,0 +1,11 @@
+{
+  "project": "PRICE PARANOIA",
+  "data_type": "synthetic_simulated",
+  "seed": 20261026,
+  "products": 30,
+  "history_rows": 5400,
+  "history_start": "2026-04-30",
+  "history_end": "2026-10-26",
+  "currency": "INR",
+  "warning": "Not real retailer data; generated for educational demonstrations."
+}

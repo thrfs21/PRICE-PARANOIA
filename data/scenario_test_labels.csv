@@ -1,0 +1,31 @@
+product_id,scenario_type,scenario_description,ground_truth_for_testing_only
+P001,normal_promotion,Ordinary price history with a few short promotional dips.,True
+P002,normal_promotion,Ordinary price history with a few short promotional dips.,True
+P003,suspicious_reference_price,Price stays well below the listed MRP; investigate reference-price claims.,True
+P004,price_spike,"A short-lived, intentionally injected price spike.",True
+P005,price_drop,A sustained price decrease late in the observation window.,True
+P006,stable_price,Mostly stable prices with small random variation.,True
+P007,normal_promotion,Ordinary price history with a few short promotional dips.,True
+P008,suspicious_reference_price,Price stays well below the listed MRP; investigate reference-price claims.,True
+P009,price_spike,"A short-lived, intentionally injected price spike.",True
+P010,stable_price,Mostly stable prices with small random variation.,True
+P011,normal_promotion,Ordinary price history with a few short promotional dips.,True
+P012,price_drop,A sustained price decrease late in the observation window.,True
+P013,stable_price,Mostly stable prices with small random variation.,True
+P014,suspicious_reference_price,Price stays well below the listed MRP; investigate reference-price claims.,True
+P015,normal_promotion,Ordinary price history with a few short promotional dips.,True
+P016,price_spike,"A short-lived, intentionally injected price spike.",True
+P017,normal_promotion,Ordinary price history with a few short promotional dips.,True
+P018,stable_price,Mostly stable prices with small random variation.,True
+P019,price_drop,A sustained price decrease late in the observation window.,True
+P020,normal_promotion,Ordinary price history with a few short promotional dips.,True
+P021,stable_price,Mostly stable prices with small random variation.,True
+P022,suspicious_reference_price,Price stays well below the listed MRP; investigate reference-price claims.,True
+P023,price_spike,"A short-lived, intentionally injected price spike.",True
+P024,normal_promotion,Ordinary price history with a few short promotional dips.,True
+P025,price_drop,A sustained price decrease late in the observation window.,True
+P026,stable_price,Mostly stable prices with small random variation.,True
+P027,normal_promotion,Ordinary price history with a few short promotional dips.,True
+P028,suspicious_reference_price,Price stays well below the listed MRP; investigate reference-price claims.,True
+P029,price_drop,A sustained price decrease late in the observation window.,True
+P030,normal_promotion,Ordinary price history with a few short promotional dips.,True

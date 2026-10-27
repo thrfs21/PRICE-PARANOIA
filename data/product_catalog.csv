@@ -1,0 +1,31 @@
+product_id,product_name,category,brand,platform,mrp_inr,currency,data_source
+P001,Wireless Headphones,Electronics,SoundMax,Store A,5999,INR,simulated
+P002,Bluetooth Speaker,Electronics,BeatBox,Store B,3499,INR,simulated
+P003,Smartwatch,Electronics,PulseTech,Store A,7999,INR,simulated
+P004,Mechanical Keyboard,Accessories,KeyForge,Store C,4999,INR,simulated
+P005,Wireless Mouse,Accessories,ClickPro,Store B,1799,INR,simulated
+P006,USB-C Hub,Accessories,PortPlus,Store A,2999,INR,simulated
+P007,Power Bank 20000mAh,Accessories,VoltGo,Store C,2499,INR,simulated
+P008,Gaming Headset,Electronics,GameTone,Store B,6999,INR,simulated
+P009,Portable SSD 1TB,Electronics,DataDrive,Store A,8999,INR,simulated
+P010,Wi-Fi Router,Electronics,NetWave,Store C,4499,INR,simulated
+P011,Monitor 27 inch,Electronics,ViewPoint,Store B,18999,INR,simulated
+P012,Webcam 1080p,Accessories,ClearView,Store A,3999,INR,simulated
+P013,Laptop Stand,Accessories,ErgoRise,Store C,2199,INR,simulated
+P014,USB Microphone,Accessories,VoiceLab,Store B,5499,INR,simulated
+P015,Tablet 128GB,Electronics,TabWorks,Store A,24999,INR,simulated
+P016,Air Fryer,Home Appliances,HomeChef,Store C,8999,INR,simulated
+P017,Mixer Grinder,Home Appliances,MixMate,Store B,5999,INR,simulated
+P018,Robot Vacuum,Home Appliances,CleanBot,Store A,22999,INR,simulated
+P019,Air Purifier,Home Appliances,PureAir,Store C,14999,INR,simulated
+P020,Electric Kettle,Home Appliances,BoilBuddy,Store B,1999,INR,simulated
+P021,Desk Lamp,Home Appliances,BrightNest,Store A,1599,INR,simulated
+P022,Ergonomic Chair,Home Appliances,SitWell,Store C,15999,INR,simulated
+P023,External Hard Drive 2TB,Electronics,DataDrive,Store B,6999,INR,simulated
+P024,USB-C Charger 65W,Accessories,VoltGo,Store A,2499,INR,simulated
+P025,Smart Bulb 2-Pack,Home Appliances,BrightNest,Store C,1799,INR,simulated
+P026,Fitness Band,Electronics,PulseTech,Store B,3999,INR,simulated
+P027,Printer,Electronics,PrintWise,Store A,12999,INR,simulated
+P028,Electric Toothbrush,Home Appliances,SmileTech,Store C,3499,INR,simulated
+P029,Gaming Controller,Accessories,GameTone,Store B,4999,INR,simulated
+P030,Noise-Cancelling Earbuds,Electronics,SoundMax,Store A,9999,INR,simulated
